@@ -4,8 +4,8 @@ Welcome to the Visually Stunning Pet Food Shop Template repository! This project
 
 Key Features:
 
-Responsive Design: Ensures an optimal viewing experience across all devices with a flexible and fluid layout
-Sticky Header: Features a sticky header with a login form and toggle navbar menu effect for easy navigation.
+Responsive Design: Ensures an optimal viewing experience across all devices with a flexible and fluid layout/n
+Sticky Header: Features a sticky header with a login form and toggle navbar menu effect for easy navigation/n
 Modern Technologies: Utilizes HTML5, CSS3, Bootstrap 5, and jQuery to create a dynamic and interactive interface.
 Pre-designed Pages: Includes over ten pre-designed HTML5 template files for essential sections such as Home, About, Services, Products, Pricing Plan, Blog, Team, Testimonials, and Contact
 Customizable: Offers flexible and well-commented code, making it easy to customize to meet your specific needs 
